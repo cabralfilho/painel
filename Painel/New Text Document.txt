@@ -1,0 +1,8 @@
+apt-get update
+apt-get upgrade -y
+apt-get install apache2 libapache2-mod-php5 php5 php5-mysql mysql-server phpmyadmin php5-fpm unzip -y
+sudo ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin;
+php /root/multics_installer.php 
+
+
+/var/www/html -y
