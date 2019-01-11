@@ -1,7 +1,7 @@
 <?php
 $_INFO = array();
 $_INFO[ 'hostname' ] = "localhost";
-$_INFO[ 'username' ] = "root";
-$_INFO[ 'password' ] = "raza";
-$_INFO[ 'dbname' ] = "multics_dbv2";
+$_INFO[ 'username' ] = "xxxx";
+$_INFO[ 'password' ] = "xxxx";
+$_INFO[ 'dbname' ] = "xxxx";
 ?>
